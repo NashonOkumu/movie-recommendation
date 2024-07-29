@@ -15,7 +15,7 @@ movies.csv: Contains movie metadata such as title, genres, and release date.
 The recommendation system employs collaborative filtering (both user-based and item-based) and content-based filtering methods. It uses matrix factorization techniques for collaborative filtering and cosine similarity for content-based filtering.
 
 ## Evaluation
-The system is evaluated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) for rating predictions. Precision, recall, and F1-score are used to evaluate the quality of the top-N recommendations.
+The system is evaluated using metrics such as Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) for rating predictions. 
 
 ## Future Work
 Advanced Modeling Techniques: Explore deep learning-based recommendation systems and reinforcement learning approaches.
@@ -23,9 +23,9 @@ Real-Time Recommendations: Incorporate streaming data for dynamic recommendation
 Enhanced User Profiles: Analyze additional data sources to build more detailed user profiles.
 Cross-Platform Integration: Expand the system to work seamlessly across multiple platforms.
 A/B Testing and Optimization: Conduct A/B testing to compare different strategies and optimize algorithms.
-Contributors
-## Your Name
-Sheila Mulwa
-Nashon Okumu
-Samuel Gichuru
+
+## Contributors
+* Sheila Mulwa
+* Nashon Okumu
+* Samuel Gichuru
 
