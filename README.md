@@ -18,9 +18,6 @@
 
 The Movie Recommendation System is a machine learning project designed to suggest movies to users based on their preferences and past interactions. This system leverages collaborative filtering and content-based filtering techniques to provide personalized movie recommendations.
 
-![image](https://github.com/user-attachments/assets/840817e2-4bcb-49d7-bec5-73e7426a7588)
-
-
 ## Data
 The dataset used for this project includes user ratings for movies. It consists of the following files:
 
@@ -44,4 +41,6 @@ A/B Testing and Optimization: Conduct A/B testing to compare different strategie
 * `Sheila Mulwa`
 * `Nashon Okumu`
 * `Samuel Gichuru`
+
+![image](https://github.com/user-attachments/assets/840817e2-4bcb-49d7-bec5-73e7426a7588)
 
