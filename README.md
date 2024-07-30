@@ -41,6 +41,3 @@ A/B Testing and Optimization: Conduct A/B testing to compare different strategie
 * `Sheila Mulwa`
 * `Nashon Okumu`
 * `Samuel Gichuru`
-
-![image](https://github.com/user-attachments/assets/840817e2-4bcb-49d7-bec5-73e7426a7588)
-
