@@ -32,6 +32,9 @@ The recommendation system employs collaborative filtering (both user-based and i
 ## Evaluation
 The system is evaluated using metrics such as `Root Mean Squared Error (RMSE)` for rating predictions. 
 
+## Deployement
+Deployement was done using `streamlit`.
+
 ## Future Work
 * Advanced Modeling Techniques: Explore deep learning-based recommendation systems and reinforcement learning approaches.
 * Real-Time Recommendations: Incorporate streaming data for dynamic recommendations.
