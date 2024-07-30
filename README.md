@@ -3,6 +3,17 @@
 
 ![image](https://github.com/user-attachments/assets/4bde0e74-8cd8-49d6-8a0e-53b5a22489c7)
 
+## Structure of this Repository
+   `Jupyter Noteboook file`
+   `Presentation `
+   `app.py  file`
+   `Dumped file picke file `
+   `Data folder `
+   `README.md`
+   `License.md`
+   
+  * To run the app, install streamlit and run the command: `streamlit run app.py`
+
 ## Introduction
 
 The Movie Recommendation System is a machine learning project designed to suggest movies to users based on their preferences and past interactions. This system leverages collaborative filtering and content-based filtering techniques to provide personalized movie recommendations.
